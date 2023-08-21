@@ -50,3 +50,5 @@ Install and enable IIS in Windows with CGI. Once in the windows features, start 
 All of these files will have to be dowloaded in order to have OsTicket up and running correctly.
 </p>
 <br />
+
+![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/fc8a3d7f-d249-459b-ab8e-892958b52e77)
