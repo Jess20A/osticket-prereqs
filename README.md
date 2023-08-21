@@ -45,10 +45,9 @@ Install and enable IIS in Windows with CGI. Once in the windows features, start 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/53ccb7f8-cb81-4334-b23e-1e606d8f61e4)
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
