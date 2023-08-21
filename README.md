@@ -52,3 +52,5 @@ All of these files will have to be dowloaded in order to have OsTicket up and ru
 <br />
 
 ![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/fc8a3d7f-d249-459b-ab8e-892958b52e77)
+
+When downloading MySQL 5.5.62 you will have to setup some credentials. Begin by choosing to do a typical setup and launch configuration wizard after the installation. Choose standard configuration and create a password for the username root.
