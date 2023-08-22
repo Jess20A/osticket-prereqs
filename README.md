@@ -59,3 +59,11 @@ When downloading MySQL 5.5.62 you will have to setup some credentials. Begin by 
 
 
 After downloading and installing OsTicket v1.15.8, some extensions will have to be enabled. Go back to IIS > sites > default > osticket and double click and enable php-imap.dll, php-intl.dll and php-opcache.dll. Finally refresh OsTicket site in your browser to observe changes.
+
+![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/f89fdd41-5bd6-499e-aeed-9c9ae34d7836)
+
+You will need to create a new session after installing Heidi SQL. Create a session with the username: root, password: Password1 and name the database OsTicket. 
+
+![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/801c1828-9866-4701-b323-3755564ac858)
+
+
