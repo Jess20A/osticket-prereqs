@@ -55,6 +55,7 @@ All of these files will have to be dowloaded in order to have OsTicket up and ru
 
 When downloading MySQL 5.5.62 you will have to setup some credentials. Begin by choosing to do a typical setup and launch configuration wizard after the installation. Choose standard configuration and create a password for the username root.
 
+
 ![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/5fa34ece-1999-49d8-954c-79a04abff212)
 
 
@@ -66,4 +67,7 @@ You will need to create a new session after installing Heidi SQL. Create a sessi
 
 ![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/801c1828-9866-4701-b323-3755564ac858)
 
+![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/eca5bee2-26ba-49f2-9dc9-5e462e5935fe)
 
+To continue to setup Osticket create your account and for the database section, fill information as follows: MySQL Database: OsTicket, MySQL Username: root, MySQL Password: Password1 
+After this you are able to log in succesfully to OsTicket.
