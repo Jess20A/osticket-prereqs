@@ -54,3 +54,8 @@ All of these files will have to be dowloaded in order to have OsTicket up and ru
 ![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/fc8a3d7f-d249-459b-ab8e-892958b52e77)
 
 When downloading MySQL 5.5.62 you will have to setup some credentials. Begin by choosing to do a typical setup and launch configuration wizard after the installation. Choose standard configuration and create a password for the username root.
+
+![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/5fa34ece-1999-49d8-954c-79a04abff212)
+
+
+After downloading and installing OsTicket v1.15.8, some extensions will have to be enabled. Go back to IIS > sites > default > osticket and double click and enable php-imap.dll, php-intl.dll and php-opcache.dll. Finally refresh OsTicket site in your browser to observe changes.
