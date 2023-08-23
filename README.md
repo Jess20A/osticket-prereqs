@@ -67,7 +67,8 @@ You will need to create a new session after installing Heidi SQL. Create a sessi
 
 ![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/801c1828-9866-4701-b323-3755564ac858)
 
-![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/eca5bee2-26ba-49f2-9dc9-5e462e5935fe)
+![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/01ec2ed1-ca02-4a51-af22-f74ebf7d622b)
+
 
 To continue to setup Osticket create your account and for the database section, fill information as follows: MySQL Database: OsTicket, MySQL Username: root, MySQL Password: Password1 
 After this you are able to log in succesfully to OsTicket.
