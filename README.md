@@ -30,8 +30,10 @@ This overview outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+<img width="647" alt="image" src="https://github.com/Jess20A/osticket-prereqs/assets/142112890/76fa0b44-bd46-4244-885d-c138277aa8d4">
 
-![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/d8f5706f-27fb-4679-b0b1-52ec32f6bae5)
+
+<img width="190" alt="image" src="https://github.com/Jess20A/osticket-prereqs/assets/142112890/734db89c-30a4-4455-9d70-463d25f3242b">
 
 
 <p>
@@ -67,7 +69,8 @@ You will need to create a new session after installing Heidi SQL. Create a sessi
 
 ![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/801c1828-9866-4701-b323-3755564ac858)
 
-![image](https://github.com/Jess20A/osticket-prereqs/assets/142112890/01ec2ed1-ca02-4a51-af22-f74ebf7d622b)
+<img width="346" alt="image" src="https://github.com/Jess20A/osticket-prereqs/assets/142112890/8970c7f0-f8b9-49b0-97a5-e26dcb75d6e9">
+
 
 
 To continue to setup Osticket create your account and for the database section, fill information as follows: MySQL Database: OsTicket, MySQL Username: root, MySQL Password: Password1 
